@@ -1,5 +1,4 @@
-##Machine Learning Lifecycle##
-
+## Machine Learning Lifecycle ##
 
 Machine Learning Lifecycle is a structured process used to develop, train, deploy and maintain machine learning models efficiently. It includes multiple stages such as data collection, preprocessing, model training, evaluation and monitoring to ensure accurate and reliable predictions.
 Provides a systematic workflow for building scalable and reliable ML models
@@ -38,7 +37,7 @@ Exploration: Use statistical and visual tools to explore patterns in data.
 Patterns and Trends: Identify underlying patterns, trends and potential challenges within the dataset.
 Insights: Gain valuable insights for informed decisions making in later stages.
 Decision Making: Use EDA for feature engineering and model selection.
-Step 5: Feature Engineering and Selection
+# Step 5: Feature Engineering and Selection #
 Feature engineering and selection is a transformative process that involve selecting only relevant features to enhance model efficiency and prediction while reducing complexity.
 
 Here are the basic features of Feature Engineering and Selection:
@@ -47,7 +46,7 @@ Feature Engineering: Create new features or transform existing ones to capture b
 Feature Selection: Identify subset of features that most significantly impact the model's performance.
 Domain Expertise: Use domain knowledge to engineer features that contribute meaningfully for prediction.
 Optimization: Balance set of features for accuracy while minimizing computational complexity.
-Step 6: Model Selection
+# Step 6: Model Selection #
 For a good machine learning model, model selection is a very important part as we need to find model that aligns with our defined problem, nature of the data, complexity of problem and the desired outcomes.
 
 Here are the basic features of Model Selection:
@@ -55,7 +54,7 @@ Here are the basic features of Model Selection:
 Complexity: Consider the complexity of the problem and the nature of the data when choosing a model.
 Decision Factors: Evaluate factors like performance, interpretability and scalability when selecting a model.
 Experimentation: Experiment with different models to find the best fit for the problem.
-Step 7: Model Training
+# Step 7: Model Training #
 With the selected model the machine learning lifecycle moves to model training process. This process involves exposing model to historical data allowing it to learn patterns, relationships and dependencies within the dataset.
 
 Here are the basic features of Model Training:
